@@ -15,4 +15,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/1forsithlord/Leetcode/tree/master/0007-reverse-integer) |
+| [0172-factorial-trailing-zeroes](https://github.com/1forsithlord/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
