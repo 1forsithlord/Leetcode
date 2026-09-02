@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/1forsithlord/Leetcode/tree/master/0704-binary-search) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/1forsithlord/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/1forsithlord/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3875-construct-uniform-parity-array-i](https://github.com/1forsithlord/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/1forsithlord/Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/1forsithlord/Leetcode/tree/master/0013-roman-to-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/1forsithlord/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [3875-construct-uniform-parity-array-i](https://github.com/1forsithlord/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
