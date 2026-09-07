@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/1forsithlord/Leetcode/tree/master/0013-roman-to-integer) |
 | [0115-distinct-subsequences](https://github.com/1forsithlord/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/1forsithlord/Leetcode/tree/master/0344-reverse-string) |
+| [0940-distinct-subsequences-ii](https://github.com/1forsithlord/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/1forsithlord/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/1forsithlord/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 ## Number Theory
 |  |
 | ------- |
