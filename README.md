@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/1forsithlord/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/1forsithlord/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/1forsithlord/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/1forsithlord/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1929-concatenation-of-array](https://github.com/1forsithlord/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/1forsithlord/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/1forsithlord/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/1forsithlord/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/1forsithlord/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/1forsithlord/Leetcode/tree/master/0013-roman-to-integer) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/1forsithlord/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/1forsithlord/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/1forsithlord/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/1forsithlord/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/1forsithlord/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/1forsithlord/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/1forsithlord/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/1forsithlord/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Simulation
 |  |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/1forsithlord/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/1forsithlord/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/1forsithlord/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/1forsithlord/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/1forsithlord/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/1forsithlord/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -128,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/1forsithlord/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/1forsithlord/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
