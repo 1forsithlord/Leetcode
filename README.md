@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/1forsithlord/Leetcode/tree/master/0258-add-digits) |
 | [0836-rectangle-overlap](https://github.com/1forsithlord/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/1forsithlord/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3360-stone-removal-game](https://github.com/1forsithlord/Leetcode/tree/master/3360-stone-removal-game) |
 | [3524-find-x-value-of-array-i](https://github.com/1forsithlord/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/1forsithlord/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/1forsithlord/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/1forsithlord/Leetcode/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/1forsithlord/Leetcode/tree/master/1929-concatenation-of-array) |
+| [3360-stone-removal-game](https://github.com/1forsithlord/Leetcode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/1forsithlord/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
